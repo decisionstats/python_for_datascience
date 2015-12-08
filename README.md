@@ -17,7 +17,13 @@ Notebooks for Python for R Users: A Data Science Approach
 - Using Scrapy for Web Scraping
 - Social Media Scraping
 - Cricket Analysis 
-- 
+
+### Databases
+- MySQL
+- MongoDB
+- HDFS
+- Spark
+
 ## Data Manipulation
 - Using SQL for Groupby
 - Using For Loops
