@@ -1,15 +1,62 @@
-# pythonfordatascience
-Python for Data Science
+# Python for Data Science
+Notebooks for Python for R Users: A Data Science Approach
 
+## Interfaces
+Rodeo
+IDLE
+Command Line
+Jupyter
+Beaker
 
-Data Input
-Web Scraping Notebook http://nbviewer.ipython.org/gist/decisionstats/3385dc84c39109f49b83
+Cloud
 
-Data Exploration
+## Data Input
+### Web Scraping 
+Yelp with Beautiful Soup http://nbviewer.ipython.org/gist/decisionstats/3385dc84c39109f49b83
+Using PyCurl for Web Scraping
+Using Scrapy for Web Scraping
+Social Media Scraping
+Cricket Analysis 
+
+## Data Exploration
 Adult DataSet http://nbviewer.ipython.org/gist/decisionstats/4142e98375445c5e4174
+Big Diamonds Dataset
+Iris Dataset
+Using SQL
 
+
+## Data Visualization
+Basic Plots using MatplotLib
+Advanced Plots using Seaborn
 Data Visualization using GGPlot http://nbviewer.ipython.org/gist/decisionstats/df98ff9df42e7764d600
+Plots using Bokeh
 
-Complete Tutorial 
+##  Regression Modeling
+Using Statsmodels
+Using Pandas
+Using Scikit-learn
+
+## Data Mining
+Decision Trees
+Association Analysis
+Clustering Kmeans and Hierarchical
+Neural Networks
+ROC Curves for Models
+
+## Time Series Forecasting
+ETS Models
+Arima Models
+
+## Optimizing Code
+Measuring Code Speed
+Measuring Code Performance
+
+## Text Mining
+Word Cloud (corpus,stopwords,association,tdm)
+Sentiment Analysis
+
+
+
+## Complete Tutorial 
 Diamonds Dataset http://nbviewer.ipython.org/gist/decisionstats/c1684daaeecf62dd4bf4
 
