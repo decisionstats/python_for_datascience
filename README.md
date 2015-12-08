@@ -25,7 +25,7 @@ Notebooks for Python for R Users: A Data Science Approach
 - Spark
 
 ## Data Manipulation
-- Using SQL for Groupby
+- Using SQL for Groupby https://nbviewer.jupyter.org/gist/decisionstats/284a86d0541d06489e92
 - Using For Loops
 - Apply and Lambda
 - Converting data from one format to another ( str)
