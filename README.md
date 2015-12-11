@@ -1,6 +1,7 @@
 # Python for Data Science
 Notebooks for Python for R Users: A Data Science Approach
 
+
 ## Interfaces
 - Command Line
 - Rodeo
@@ -9,6 +10,9 @@ Notebooks for Python for R Users: A Data Science Approach
 - Beaker
 
 ## Cloud
+
+## Basic Python
+Introductory Python https://nbviewer.jupyter.org/gist/decisionstats/ce2c16ee98abcf328177
 
 ## Data Input
 ### Web Scraping 
