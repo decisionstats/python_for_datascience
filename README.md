@@ -13,6 +13,7 @@ Notebooks for Python for R Users: A Data Science Approach
 
 ## Basic Python
 Introductory Python https://nbviewer.jupyter.org/gist/decisionstats/ce2c16ee98abcf328177
+Selecting Data in Pandas https://nbviewer.jupyter.org/gist/decisionstats/01fc540363f1081c5358
 
 ## Data Input
 ### Web Scraping 
