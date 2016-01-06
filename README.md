@@ -18,58 +18,62 @@ Selecting Data in Pandas https://nbviewer.jupyter.org/gist/decisionstats/01fc540
 ## Data Input
 ### Web Scraping 
 - Yelp with Beautiful Soup http://nbviewer.ipython.org/gist/decisionstats/3385dc84c39109f49b83
-- Using PyCurl for Web Scraping
-- Using Scrapy for Web Scraping
-- Social Media Scraping
-- Cricket Analysis 
+- Using PyCurl for Web Scraping (not done- link to be put AG)
+- Social Media Scraping (done -link for twitter AO)
+- Cricket Analysis (done - link to be put AG)
+- Python with ODBC ( PyODBC ) to be done by AG
 
 ### Databases
-- MySQL
-- MongoDB
-- HDFS
-- Spark
+- MySQL ( sqlalchemy link to be put by AG)
+- MongoDB (not done link to be put by AG)
+- HDFS (TBD)
+- Spark (TBD)
 
 ## Data Manipulation
 - Using SQL for Groupby https://nbviewer.jupyter.org/gist/decisionstats/284a86d0541d06489e92
-- Using For Loops
-- Apply and Lambda
+- Using For Loops (reuse existing code -AG)
+- Apply and Lambda (reuse from existing code -AG but needs to be explained)
 - Converting data from one format to another ( str)
-- Using grepl and gsub
-- Subset of a DataFrame and List
-- Conditional Manipulation
+- Using grepl and gsub (NOT DONE -AG)
+- Subset of a DataFrame and List (done - link to be put by AO)
+- Conditional Manipulation (done - link to be put by AO)
 
 ## Data Exploration
 - Adult DataSet http://nbviewer.ipython.org/gist/decisionstats/4142e98375445c5e4174
-- Big Diamonds Dataset
-- Iris Dataset
+- Big Diamonds Dataset (Tutorials to be built)
+- Iris Dataset (Tutorials to be built)
 
 
 
 ## Data Visualization
-- Basic Plots using MatplotLib
-- Advanced Plots using Seaborn
+- Basic Plots using MatplotLib (done - to be elaborated link to be put by AO)
+- Advanced Plots using Seaborn  (done - to be elaborated link to be put by AO)
 - Data Visualization using GGPlot http://nbviewer.ipython.org/gist/decisionstats/df98ff9df42e7764d600
-- Plots using Bokeh
+- Plots using Bokeh  (NOT DONE -AG)
 
-##  Regression Modeling
-- Using Statsmodels (Boston Dataset)
+##  Regression Modeling (NOT DONE -AG)
+- Using Statsmodels (Boston Dataset)- AO link to be put
 - Using Pandas
-- Using Scikit-learn
+- Using Scikit-learn (AG - link to be put)
+- 
+VIF (NOT DONE) , Outliers (done), Heteroscedascity (NOT DONE)
 
 ## Data Mining
-- Decision Trees
-- Association Analysis
-- Clustering Kmeans and Hierarchical
-- Neural Networks
-- ROC Curves for Models
-
+- Decision Trees (Done - link to be put by AG - pydot to be clarified)
+- Association Analysis  (Done - link to be put by AG - visualization to be clarified)
+- Clustering Kmeans and Hierarchical  (Done - link to be put by AG - visualization to be clarified)
+- Neural Networks 
+- 
+Model Diagnostics
+- ROC Curves for Models (to be done by AG)
+-
 ## Time Series Forecasting
-- ETS Models
-- Arima Models
+- ETS Models (to be done based on forecast R package)
+- Arima Models (to be done based on auto arima)
 
 ## Optimizing Code
-- Measuring Code Speed
-- Measuring Code Performance
+- Measuring Code Speed ( Datetime currently but alertnatives to be seen AG)
+- Measuring Code Performance (to be done -profiling code AG)
 
 ## Text Mining
 - Word Cloud (corpus,stopwords,association,tdm)
