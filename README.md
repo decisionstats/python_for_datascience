@@ -50,6 +50,7 @@ Selecting Data in Pandas https://nbviewer.jupyter.org/gist/decisionstats/01fc540
 - Advanced Plots using Seaborn
 - Data Visualization using GGPlot http://nbviewer.ipython.org/gist/decisionstats/df98ff9df42e7764d600
 - Plots using Bokeh
+- Anscombe Dataset   http://nbviewer.jupyter.org/gist/decisionstats/3737642751895f470d5c07194302f53e
 
 ##  Regression Modeling
 - Using Statsmodels (Boston Dataset)
@@ -79,4 +80,5 @@ Selecting Data in Pandas https://nbviewer.jupyter.org/gist/decisionstats/01fc540
 
 ## Complete Tutorial 
 - Diamonds Dataset http://nbviewer.ipython.org/gist/decisionstats/c1684daaeecf62dd4bf4
+- StatisticsViews Data Science Tutorial http://www.statisticsviews.com/details/feature/8868901/A-Tutorial-on-Python.html
 
