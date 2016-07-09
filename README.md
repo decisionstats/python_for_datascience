@@ -88,9 +88,11 @@ Selecting Data in Pandas https://nbviewer.jupyter.org/gist/decisionstats/01fc540
 Spatial Data using Python 
 http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html#.V4EneVgrJ-8
 http://nbviewer.jupyter.org/gist/urschrei/74c6223d9f6a5dea4e75
+http://spatialdemography.org/essential-python-geospatial-libraries/
 
 # New Version of Python ggplot
 http://ggplot.yhathq.com/
+
 
 #Datasets
 http://www.gunviolencearchive.org/
