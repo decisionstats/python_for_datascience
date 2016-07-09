@@ -81,11 +81,15 @@ Selecting Data in Pandas https://nbviewer.jupyter.org/gist/decisionstats/01fc540
 ## Complete Tutorial 
 - Diamonds Dataset http://nbviewer.ipython.org/gist/decisionstats/c1684daaeecf62dd4bf4
 - StatisticsViews Data Science Tutorial http://www.statisticsviews.com/details/feature/8868901/A-Tutorial-on-Python.html
-- 
+
 
 # Current To Dos
 Spatial Data using Python 
 http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html#.V4EneVgrJ-8
 http://nbviewer.jupyter.org/gist/urschrei/74c6223d9f6a5dea4e75
+
+#Datasets
+http://www.gunviolencearchive.org/
+Washington Post https://github.com/washingtonpost/data-police-shootings
 
 
