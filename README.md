@@ -32,7 +32,7 @@ numpy to pandas http://nbviewer.jupyter.org/gist/decisionstats/0a752d23e94708c6d
 
 ## Data Manipulation
 - Using SQL for Groupby https://nbviewer.jupyter.org/gist/decisionstats/284a86d0541d06489e92
-- Using For Loops
+- Using For Loops https://nbviewer.jupyter.org/gist/decisionstats/ce2c16ee98abcf328177
 - Apply and Lambda
 - Converting data from one format to another ( str)
 - Using grepl and gsub
