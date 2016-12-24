@@ -17,6 +17,8 @@ Notebooks for Python for R Users: A Data Science Approach
 - variables in strings in python https://nbviewer.jupyter.org/gist/decisionstats/b9edb29ae440b45799f4e8d273269228
 - Selecting Data in Pandas https://nbviewer.jupyter.org/gist/decisionstats/01fc540363f1081c5358
 - numpy to pandas http://nbviewer.jupyter.org/gist/decisionstats/0a752d23e94708c6ddbaea478ecd9a81
+- using re.sub for cleaning data https://nbviewer.jupyter.org/gist/decisionstats/42b3fc90ae6fa537a19a08017e0336cb
+- using re.search and bool for searching for strings https://nbviewer.jupyter.org/gist/decisionstats/612116b1b8147cfb3808f5ac3c791eba
 
 ## Data Input
 ### Web Scraping 
