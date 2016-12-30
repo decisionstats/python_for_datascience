@@ -65,7 +65,7 @@ Notebooks for Python for R Users: A Data Science Approach
 - Using Scikit-learn
 
 ## Data Mining
-- Decision Trees
+- Decision Trees https://nbviewer.jupyter.org/gist/decisionstats/8b762caa7b7deebb68e3f275daf02a9d
 - Association Analysis
 - Clustering Kmeans and Hierarchical
 - Neural Networks
