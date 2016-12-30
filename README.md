@@ -66,6 +66,7 @@ Notebooks for Python for R Users: A Data Science Approach
 
 ## Data Mining
 - Decision Trees https://nbviewer.jupyter.org/gist/decisionstats/8b762caa7b7deebb68e3f275daf02a9d
+- Decision Tree with Weather Dataset from Rattle https://gist.github.com/decisionstats/47a2324b14ebfd22657b40ec1ae5b480
 - Association Analysis
 - Clustering Kmeans and Hierarchical
 - Neural Networks
