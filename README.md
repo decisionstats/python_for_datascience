@@ -69,7 +69,7 @@ Notebooks for Python for R Users: A Data Science Approach
 - Decision Trees https://nbviewer.jupyter.org/gist/decisionstats/8b762caa7b7deebb68e3f275daf02a9d
 - Decision Tree with Weather Dataset from Rattle https://nbviewer.jupyter.org/gist/decisionstats/47a2324b14ebfd22657b40ec1ae5b480
 - Association Analysis
-- Clustering Kmeans and Hierarchical kmeans draft 1 https://nbviewer.jupyter.org/gist/decisionstats/c12702d0e49ba504248471cf1d2eff53
+- Clustering Kmeans and Hierarchical kmeans https://nbviewer.jupyter.org/gist/decisionstats/a1554207a7583bad6f53825905e72289
 - Neural Networks
 - ROC Curves for Models
 
