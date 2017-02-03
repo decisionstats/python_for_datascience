@@ -32,7 +32,7 @@ Notebooks for Python for R Users: A Data Science Approach
 
 ### Databases
 - MySQL
-- PostGres https://nbviewer.jupyter.org/gist/decisionstats/b4a4f2ddc2833d8243497071cf27b3b7
+- PostGres   https://nbviewer.jupyter.org/gist/decisionstats/e283591acf4b51ba3c47e0bcfe331c05
 - MongoDB
 - HDFS
 - Spark
