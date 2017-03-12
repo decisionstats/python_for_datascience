@@ -1,6 +1,7 @@
 # Python for Data Science
 Notebooks for Python for R Users: A Data Science Approach
 
+#Hi I am Ajay
 
 # CLASSROOM
 https://nbviewer.jupyter.org/gist/decisionstats/2c99a54b0a61c082b8814c1e1466ad62
@@ -32,7 +33,7 @@ https://nbviewer.jupyter.org/gist/decisionstats/2c99a54b0a61c082b8814c1e1466ad62
 - Using Scrapy for Web Scraping
 - Social Media Scraping
 - Cricket Analysis 
-
+1
 ### Databases
 - MySQL
 - PostGres   https://nbviewer.jupyter.org/gist/decisionstats/e283591acf4b51ba3c47e0bcfe331c05
