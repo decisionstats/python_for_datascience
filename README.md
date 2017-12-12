@@ -15,6 +15,7 @@ https://nbviewer.jupyter.org/gist/decisionstats/2c99a54b0a61c082b8814c1e1466ad62
 ## Cloud
 
 ## Basic Python
+- Revised Intro to Python Dec 2017 https://github.com/decisionstats/pythonfordatascience/blob/master/python%2Bintro.ipynb
 - Introductory Python https://nbviewer.jupyter.org/gist/decisionstats/ce2c16ee98abcf328177
 - Strings, Lists and Tuples ,Dicts https://nbviewer.jupyter.org/gist/decisionstats/752ff727101cf6fc13225bd94eef358a
 - variables in strings in python https://nbviewer.jupyter.org/gist/decisionstats/b9edb29ae440b45799f4e8d273269228
