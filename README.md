@@ -25,6 +25,7 @@ https://nbviewer.jupyter.org/gist/decisionstats/2c99a54b0a61c082b8814c1e1466ad62
 - using re.search and bool for searching for strings https://nbviewer.jupyter.org/gist/decisionstats/612116b1b8147cfb3808f5ac3c791eba
 - using os package for file operations https://nbviewer.jupyter.org/gist/decisionstats/29f3adfb6980db52a61130aa8c8f9166 
 - data transformations https://nbviewer.jupyter.org/gist/decisionstats/b818917b37807fa0ded41522928f26af
+- data manipulation https://github.com/decisionstats/pythonfordatascience/blob/master/data%2Bmanipulation.ipynb
 
 ## Data Input
 ### Web Scraping 
