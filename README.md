@@ -91,7 +91,7 @@ https://nbviewer.jupyter.org/gist/decisionstats/e283591acf4b51ba3c47e0bcfe331c05
 ## Text Mining
 - Tokens and TDM https://github.com/decisionstats/pythonfordatascience/blob/master/text%2Bmining.ipynb
 - Word Cloud (corpus,stopwords,association,tdm)
-- Sentiment Analysis
+- Sentiment Analysis on Tweets https://github.com/decisionstats/pythonfordatascience/blob/master/Tweepy.ipynb
 
 
 
