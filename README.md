@@ -62,7 +62,7 @@ https://nbviewer.jupyter.org/gist/decisionstats/e283591acf4b51ba3c47e0bcfe331c05
 
 ## Data Visualization
 - Basic Plots using MatplotLib
-- Advanced Plots using Seaborn
+- Advanced Plots using Seaborn https://github.com/decisionstats/pythonfordatascience/blob/master/ML%2Band%2BData%2BViz.ipynb
 - Data Visualization using GGPlot http://nbviewer.ipython.org/gist/decisionstats/df98ff9df42e7764d600
 - Plots using Bokeh
 - Anscombe Dataset   http://nbviewer.jupyter.org/gist/decisionstats/3737642751895f470d5c07194302f53e
