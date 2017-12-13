@@ -30,6 +30,7 @@ https://nbviewer.jupyter.org/gist/decisionstats/2c99a54b0a61c082b8814c1e1466ad62
 ## Data Input
 ### Web Scraping 
 - Yelp with Beautiful Soup http://nbviewer.ipython.org/gist/decisionstats/3385dc84c39109f49b83
+- Scraping Rotten Tomatoes by Beautiful Soup https://github.com/decisionstats/pythonfordatascience/blob/master/Web%2BScraping.ipynb
 - Using PyCurl for Web Scraping
 - Using Scrapy for Web Scraping
 - Social Media Scraping
