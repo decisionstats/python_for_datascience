@@ -68,7 +68,7 @@ https://nbviewer.jupyter.org/gist/decisionstats/e283591acf4b51ba3c47e0bcfe331c05
 - Anscombe Dataset   http://nbviewer.jupyter.org/gist/decisionstats/3737642751895f470d5c07194302f53e
 
 ##  Regression Modeling
-- Using Statsmodels (Boston Dataset) and Iris Dataset https://nbviewer.jupyter.org/gist/decisionstats/8ac83dbe4dd08808af3d9c0869259cf6
+- Using Statsmodels Iris Dataset https://github.com/decisionstats/pythonfordatascience/blob/master/regression.ipynb
 - Using Pandas
 - Using Scikit-learn
 
