@@ -78,7 +78,7 @@ https://nbviewer.jupyter.org/gist/decisionstats/e283591acf4b51ba3c47e0bcfe331c05
 - Association Analysis
 - Clustering Kmeans and Hierarchical kmeans https://nbviewer.jupyter.org/gist/decisionstats/a1554207a7583bad6f53825905e72289
 - Neural Networks
-- ROC Curves for Models
+- Naive Bayes https://github.com/decisionstats/pythonfordatascience/blob/master/Naive%2BBayes.ipynb 
 
 ## Time Series Forecasting
 - ETS Models
