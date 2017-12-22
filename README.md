@@ -85,8 +85,11 @@ https://nbviewer.jupyter.org/gist/decisionstats/e283591acf4b51ba3c47e0bcfe331c05
 - Arima Models
 
 ## Optimizing Code
-- Measuring Code Speed
+- Measuring Code Speed timeit
 - Measuring Code Performance
+
+## Machine Learning
+Automated Machine Learning TPot https://github.com/decisionstats/pythonfordatascience/blob/master/tpot.ipynb
 
 ## Text Mining
 - Tokens and TDM https://github.com/decisionstats/pythonfordatascience/blob/master/text%2Bmining.ipynb
