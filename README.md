@@ -69,6 +69,7 @@ https://nbviewer.jupyter.org/gist/decisionstats/e283591acf4b51ba3c47e0bcfe331c05
 
 ##  Regression Modeling
 - Using Statsmodels Iris Dataset https://github.com/decisionstats/pythonfordatascience/blob/master/regression.ipynb
+-Using Bostom Dataset with statsmodel and scikit learn https://github.com/decisionstats/pythonfordatascience/blob/master/linear%20regression%20using%20statsmodel%20and%20scikit.ipynb
 - Using Pandas
 - Using Scikit-learn
 
