@@ -118,6 +118,6 @@ http://ggplot.yhathq.com/
 #Datasets
 http://www.gunviolencearchive.org/
 Washington Post https://github.com/washingtonpost/data-police-shootings
-Titanic Dataset -Kaggle 
+Titanic Dataset -Kaggle (forked from Kaggle https://github.com/decisionstats/pythonfordatascience/blob/master/titanic%20forked.ipynb )
 
 
