@@ -1,4 +1,8 @@
+See https://decisionstats.github.io/python_for_datascience/
+
 # Python for Data Science
+
+
 Notebooks for Python for R Users: A Data Science Approach
  
 
