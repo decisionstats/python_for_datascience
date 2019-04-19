@@ -1,3 +1,5 @@
+Bokeh - https://github.com/decisionstats/python_for_datascience/blob/master/Bokeh.ipynb 
+
 See https://decisionstats.github.io/python_for_datascience/
 
 # Python for Data Science
