@@ -88,6 +88,7 @@ https://nbviewer.jupyter.org/gist/decisionstats/e283591acf4b51ba3c47e0bcfe331c05
 - Naive Bayes https://github.com/decisionstats/pythonfordatascience/blob/master/Naive%2BBayes.ipynb 
 
 ## Time Series Forecasting
+https://nbviewer.jupyter.org/gist/decisionstats/341f890827f73a3ba24ac8861803cab8
 - ETS Models
 - Arima Models
 
