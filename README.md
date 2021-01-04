@@ -4,6 +4,8 @@ Bokeh - https://github.com/decisionstats/python_for_datascience/blob/master/Boke
 
 See https://decisionstats.github.io/python_for_datascience/
 
+Classification Models https://nbviewer.jupyter.org/github/decisionstats/python_for_datascience/blob/master/Classification%20Models%20v%202.ipynb
+
 # Python for Data Science
 
 
