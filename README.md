@@ -91,6 +91,9 @@ https://nbviewer.jupyter.org/gist/decisionstats/e283591acf4b51ba3c47e0bcfe331c05
 - Neural Networks
 - Naive Bayes https://github.com/decisionstats/pythonfordatascience/blob/master/Naive%2BBayes.ipynb 
 
+## Classification
+- Classification https://nbviewer.jupyter.org/github/decisionstats/python_for_datascience/blob/master/Classification%20Models%20v%202.ipynb
+
 ## Time Series Forecasting
 https://nbviewer.jupyter.org/gist/decisionstats/341f890827f73a3ba24ac8861803cab8
 - ETS Models
